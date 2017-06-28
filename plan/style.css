@@ -1,0 +1,14 @@
+img {
+	display: inline-block;
+	float: none;
+	align-content: center;
+}
+
+h1, h2, h3, p, li {
+	text-align: center;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
