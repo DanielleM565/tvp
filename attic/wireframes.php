@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link rel="stylesheet" href="style.css" type="text/css">
+		<link rel="stylesheet" href="style_wireframes.css" type="text/css">
 		<title>TVP</title>
 
 		<!-- bootstrap -->
@@ -33,21 +33,21 @@
 				<li>Contact</li>
 			</ul>
 			<p><Strong>All Pages</Strong> will have the Tramway Venture Partner's logo and the nav bar at the top.</p>
-			<img class="img-fluid" src="../public_html/images/homepage.png">
+			<img class="img-fluid" src="images_wireframes/homepage.png">
 			<h3>Home Page</h3>
 			<p><strong>The Home Page</strong> Will have a picture of the Sandia Peak Tramway and on the picture will be a quote or slogan. Below will be a short and sweet paragraph about Tramway Venture Partners similar to an elevator speech</p>
-			<img class="img-fluid" src="../public_html/images/about.png">
-			<img class="img-fluid" src="../public_html/images/team.png">
-			<img class="img-fluid" src="../public_html/images/portfolio.png">
-			<img class="img-fluid" src="../public_html/images/news.png">
-			<img class="img-fluid" src="../public_html/images/contact.png">
+			<img class="img-fluid" src="images_wireframes/about.png">
+			<img class="img-fluid" src="images_wireframes/team.png">
+			<img class="img-fluid" src="images_wireframes/portfolio.png">
+			<img class="img-fluid" src="images_wireframes/news.png">
+			<img class="img-fluid" src="images_wireframes/contact.png">
 			<br>
-			<img class="img-fluid" src="../public_html/images/mobilehomepage.png">
-			<img class="img-fluid" src="../public_html/images/mobileaboutpage.png">
-			<img class="img-fluid" src="../public_html/images/mobileteampage.png">
-			<img class="img-fluid" src="../public_html/images/mobileportfolio.png">
-			<img class="img-fluid" src="../public_html/images/mobilenews.png">
-			<img class="img-fluid" src="../public_html/images/mobilecontactpage.png">
+			<img class="img-fluid" src="images_wireframes/mobilehomepage.png">
+			<img class="img-fluid" src="images_wireframes/mobileaboutpage.png">
+			<img class="img-fluid" src="images_wireframes/mobileteampage.png">
+			<img class="img-fluid" src="images_wireframes/mobileportfolio.png">
+			<img class="img-fluid" src="images_wireframes/mobilenews.png">
+			<img class="img-fluid" src="images_wireframes/mobilecontactpage.png">
 		</main>
 	</body>
 </html>
