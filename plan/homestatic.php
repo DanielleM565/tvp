@@ -20,7 +20,13 @@
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
-		<!-- bootstrap -->
+		<!-- google fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">
+
+		<!-- custom CSS -->
+		<link rel="stylesheet" href="./css/style.css" type="text/css">
+
+
 	</head>
 	<body>
 		<header>
