@@ -54,7 +54,12 @@
 			</div>
 		</header>
 		<main>
-			<p>About Page</p>
+			<div class="container">
+				<h2>About</h2>
+				<p>Tramway Venture Partners is a seed and early stage venture fund investing in life sciences and health care start-ups in New Mexico. We will typically invest in the first institutional round after angels and friends and family. We will seek opportunities to invest in companies with significant intellectual property positions, clear go to market strategies, large addressable markets that are expected to require less than a total of $30M to exit.</p>
+				<h3>Why New Mexico</h3>
+				<p>New Mexico is attractive for investment because of the intensive Federal R&amp;D investment, its emerging entrepreneurial culture and low cost. It is an “out of the way” place that is attractive, in part, precisely because it is out of the way. Home to Los Alamos National Laboratory, Sandia National Laboratories, the US Air Force Research Laboratory and White Sands Missile Range, federal investment in research and development in New Mexico amounted to more than $3.8 Billion in 2014. The State’s three research universities: The University of New Mexico (a Carnegie classification R1 university with its School of Medicine designated as a Comprehensive Cancer Care Center by the National Cancer Institute, New Mexico State University and New Mexico Tech operate relevant research programs with aggregate funding of over $300 Million per year. It is this setting that creates the investment opportunity for the Tramway Venture Partners.</p>
+			</div>
 		</main>
 	</body>
 </html>
