@@ -27,47 +27,34 @@
 			<!--Logo goes here -->
 
 			<!--Nav par or nav pills go here -->
-
-			<nav class="nav">
+			<div class="navbar navbar-default navbar-static-top" role="navigation">
 				<div class="container">
-					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
+						<!-- for mobile view navbar icon-->
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="sr-only">Toggle Navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<!-- brand -->
-						<a class="navbar-brand"><div>Tramway Venture Partners</div></a>
+						<!-- navbar -->
+						<a class="navbar-brand" href="#">Tramway Venture Partners</a>
 					</div>
-					<div class="collapse navbar-collapse" id="main-menu">
-						<ul class="nav justify-content-center">
-							<li class="nav-item">
-								<a class="nav-link" href="#">Home</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">About</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">Team</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">Portfolio</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">News</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="#">Contact</a>
-							</li>
+					<div class="navbar-collapse collapse">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="homestatic.php">Home</a></li>
+							<li><a href="aboutstatic.php">About</a></li>
+							<li><a href="teamstatic.php">Team</a></li>
+							<li class="active"><a href="portfoliostatic.php">Portfolio</a></li>
+							<li><a href="newsstatic.php">News</a></li>
+							<li><a href="contactstatic.php">Contact</a></li>
 						</ul>
-					</div>
+					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
-			</nav>
+			</div>
 		</header>
 		<main>
-			<p>template page</p>
+			<p>Portfolio Page</p>
 		</main>
 	</body>
 </html>
