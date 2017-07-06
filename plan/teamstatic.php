@@ -70,7 +70,7 @@
 						<h2>Waneta Tuttle <small> Fund Manager</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img src="stock_images/cat-stock.jpg" alt="Image of Waneta Tuttle">
+						<img class="img-responsive" src="stock_images/cat-stock.jpg" alt="Image of Waneta Tuttle">
 					</div>
 					<div class="col-md-9">
 						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
@@ -85,7 +85,7 @@
 						<h2>John Rockwell <small> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img src="stock_images/cat-left-stock.jpg" alt="Image of John Rockwell">
+						<img class="img-responsive" src="stock_images/cat-left-stock.jpg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
 						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
@@ -99,7 +99,7 @@
 						<h2>Stu Rose <small> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img src="stock_images/cat-stock.jpg" alt="Image of Stu Rose">
+						<img class="img-responsive" src="stock_images/cat-stock.jpg" alt="Image of Stu Rose">
 					</div>
 					<div class="col-md-9">
 						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
@@ -115,7 +115,7 @@
 						<h2>Brad Vale <small> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img src="stock_images/cat-left-stock.jpg" alt="Image of Brad Vale">
+						<img class="img-responsive" src="stock_images/cat-left-stock.jpg" alt="Image of Brad Vale">
 					</div>
 					<div class="col-md-9">
 						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
