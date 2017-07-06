@@ -20,6 +20,11 @@
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
+
 			<!-- google fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Old+Standard+TT|Source+Serif+Pro" rel="stylesheet">
 
@@ -54,7 +59,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<!-- navbar -->
-						<a class="navbar-brand" href="#">Tramway Venture Partners</a>
+						<a class="navbar-brand" href="homestatic.php">Tramway Venture Partners</a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
@@ -67,8 +72,7 @@
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
-			</div>
-		</header>
+			</div>		</header>
 		<main>
 			<h1>Contact Us</h1>
 
