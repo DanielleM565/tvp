@@ -59,7 +59,78 @@
 			</div>
 		</header>
 		<main>
-			<p>Contact Page</p>
+			<h1>Contact Us</h1>
+
+			<!-- contact me section-->
+			<div class="panel panel default">
+				<div class="panel-body">
+					<div class="container contact">
+						<div class="row">
+							<div class="col-md-2"></div>
+							<div class="col-md-8 center-block">
+								<!--Begin Contact Form-->
+								<form id="contact-form" method="POST" action="php/mailer.php">
+									<div class="form-group">
+										<label for="name">Name <span class="text-danger">*</span></label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-user" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="email">Email <span class="text-danger">*</span></label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-envelope" aria-hidden="true"></i>
+											</div>
+											<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="subject">Subject</label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-pencil" aria-hidden="true"></i>
+											</div>
+											<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="message">Message <span class="text-danger">*</span></label>
+										<div class="input-group">
+											<div class="input-group-addon">
+												<i class="fa fa-comment" aria-hidden="true"></i>
+											</div>
+											<textarea class="form-control" rows="5" id="message" name="message"
+														 placeholder="Message (2000 characters max)"></textarea>
+										</div>
+									</div>
+
+									<!--Google reCAPTCHA helps prevent spam and robots -->
+									<div class="g-recaptcha" data-sitekey="6LcR1CMUAAAAAIdpnBD_kqkRmGmjjRSLxo7GdfCE"></div>
+
+									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+								</form>
+								<!-- end contact form -->
+
+								<!--empty area for form error/success output-->
+								<div class="row">
+									<div class="col-xs-12">
+										<div id="output-area"></div>
+									</div>
+								</div>
+							</div> <!-- column-->
+						</div> <!-- row -->
+					</div> <!-- container -->
+
+			</div> <!-- panel -->
+			</div>
+
+
+
 		</main>
 	</body>
 </html>

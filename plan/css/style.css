@@ -23,8 +23,10 @@ p{
 
 
 /*
-Portfolio icons and text
+Portfolio and team icons, images and text
  */
+
+
 
 @media (max-width: 992px) {
 	p, h2 {
@@ -37,10 +39,15 @@ Portfolio icons and text
 		display: block;
 		margin: auto;
 	}
+
+	/*
+Everything centers with small screns
+ */
+
 }
 img {
 	max-height: 127px;
 	display: inline-block;
 	float: none;
-
 }
+
