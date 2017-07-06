@@ -22,7 +22,7 @@
 
 
 		<!-- google fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Old+Standard+TT|Source+Serif+Pro" rel="stylesheet">
 		<!-- custom CSS -->
 		<link rel="stylesheet" href="./css/style.css" type="text/css">
 

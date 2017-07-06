@@ -2,11 +2,39 @@
 Global styles
  */
 
-a, p, h1, h2, h3, h4 {
+p {
+
+	/*font-family: 'Frank Ruhl Libre', sans-serif;*/
+	font-family: 'Source Serif Pro', serif;
+}
+
+h1, h2, h3, h4, a {
 	font-family: 'Old Standard TT', serif;
 }
 
-
+h1 {
+	text-align: center;
+}
 p{
 	font-size: 15px;
+}
+
+
+
+
+/*
+Portfolio icons and text
+ */
+
+@media (min-width: 1000px) {
+	img, p, h2 {
+		align-content: center;
+		text-align: center;
+	}
+}
+img {
+	max-height: 127px;
+	display: inline-block;
+	float: none;
+
 }
