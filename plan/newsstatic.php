@@ -64,7 +64,22 @@
 			</div>
 		</header>
 		<main>
-			<p>News Page</p>
+			<h1>News</h1>
+				<div class="panel panel default">
+					<div class="panel-body">
+						<div class="row">
+							<div class="col-md-3">
+								<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="stock_images/KRWG-logo.png"></a>
+							</div>
+							<div class="col-md-9">
+								<h3>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h3>
+								<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups. See full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" traget="_blank">here.</a></p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
 		</main>
 	</body>
 </html>

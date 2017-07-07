@@ -72,7 +72,8 @@
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
-			</div>		</header>
+			</div>
+		</header>
 		<main>
 			<h1>Contact Us</h1>
 
