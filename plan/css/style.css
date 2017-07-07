@@ -33,7 +33,7 @@ Portfolio and team icons, images and text
 		align-content: center;
 		text-align: center; !important;
 	}
-	img {
+	img, #icon{
 		align-content: center;
 		text-align: center;
 		display: block;
@@ -41,11 +41,11 @@ Portfolio and team icons, images and text
 	}
 
 	/*
-Everything centers with small screns
+Everything centers with small screens
  */
 
 }
-img {
+img, #icon{
 	max-height: 127px;
 	display: inline-block;
 	float: none;
