@@ -72,7 +72,7 @@
 			<div class="container">
 				<div class="row waneta">
 					<div class="page-header">
-						<h2>Waneta Tuttle <small> Fund Manager</small></h2>
+						<h2>Waneta Tuttle <small style="color: #0f8a89"> Fund Manager</small style="color: #0f8a89"></h2>
 					</div>
 					<div class="col-md-3">
 						<img class="img-responsive" src="stock_images/cat-stock.jpg" alt="Image of Waneta Tuttle">
@@ -87,7 +87,7 @@
 			<div class="container">
 				<div class="row john">
 					<div class="page-header">
-						<h2>John Rockwell <small> Venture Partner</small></h2>
+						<h2>John Rockwell <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
 						<img class="img-responsive" src="stock_images/cat-left-stock.jpg" alt="Image of John Rockwell">
@@ -101,7 +101,7 @@
 			<div class="container">
 				<div class="row stu">
 					<div class="page-header">
-						<h2>Stu Rose <small> Venture Partner</small></h2>
+						<h2>Stu Rose <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
 						<img class="img-responsive" src="stock_images/cat-stock.jpg" alt="Image of Stu Rose">
@@ -117,7 +117,7 @@
 			<div class="container">
 				<div class="row brad">
 					<div class="page-header">
-						<h2>Brad Vale <small> Venture Partner</small></h2>
+						<h2>Brad Vale <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
 						<img class="img-responsive" src="stock_images/cat-left-stock.jpg" alt="Image of Brad Vale">
