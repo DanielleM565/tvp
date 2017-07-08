@@ -67,34 +67,42 @@
 			<h1>News</h1>
 
 			<!-- article from NMSU about state seed fund -->
-				<div class="panel panel default">
-					<div class="panel-body">
-						<div class="row id=1">
-							<div class="col-md-3">
-								<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="stock_images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
-							</div>
-							<div class="col-md-9">
-								<h2>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h2>
-								<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups. See full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
-							</div>
-						</div>
-					</div>
+<div class="container" id="news-1">
+	<div class="panel panel default">
+		<div class="panel-body">
+			<div class="row">
+				<div class="col-md-3">
+					<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="stock_images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
 				</div>
-
-			<!-- article from press-news-->
-			<div class="panel panel-defaul">
-				<div class="panel-body">
-					<div class="row id=2">
-						<div class="col-md-3">
-							<a href="https://www.pressreader.com/usa/albuquerque-journal/20170503/281814283767105" target="_blank"><img class="img-responsive" src="stock_images/press-reader.png" alt="pressreader logo"></a>
-						</div>
-						<div class="col-md-9">
-							<h3>$4.65M boost for cash-strapped local startups <small>May 3, 2017</small></h3>
-							<p>Many cash-strapped New Mexico startups may soon get a critical boost from a statebacked investment program that's pumping an initial $4.65 million into three venture funds. Gov. Susana Martinez... Read Full article <a href="https://www.pressreader.com/usa/albuquerque-journal/20170503/281814283767105" target="_blank">here.</a></p>
-						</div>
-					</div>
+				<div class="col-md-9">
+					<h2>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h2>
+					<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups. See full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
 				</div>
 			</div>
+		</div>
+	</div>
+
+</div>
+
+			<!-- article from press-news-->
+<div class="container" id="news-2">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<div class="row">
+				<div class="col-md-3">
+					<a href="https://www.pressreader.com/usa/albuquerque-journal/20170503/281814283767105" target="_blank"><img class="img-responsive" src="stock_images/press-reader.png" alt="pressreader logo"></a>
+				</div>
+				<div class="col-md-9">
+					<h3>$4.65M boost for cash-strapped local startups <small>May 3, 2017</small></h3>
+					<p>Many cash-strapped New Mexico startups may soon get a critical boost from a statebacked investment program that's pumping an initial $4.65 million into three venture funds. Gov. Susana Martinez... Read Full article <a href="https://www.pressreader.com/usa/albuquerque-journal/20170503/281814283767105" target="_blank">here.</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
 		</main>
 	</body>
 </html>

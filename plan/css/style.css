@@ -19,8 +19,14 @@ p{
 	font-size: 15px;
 }
 
+small {
+	color: #0f8a89;
+}
 
 
+body {
+	background-color: darkgrey ;
+}
 
 /*
 Portfolio and team icons, images and text
@@ -59,4 +65,13 @@ News page panels and such
 
 .panel-body {
 	padding: 25px;
+	background-color: #D1D6D6;
 }
+
+
+/*
+Adobe color wheel brand colors
+light grey #D1D6D6
+Turquoise #1FB9B7
+Dark Grey #5F6163
+ */
