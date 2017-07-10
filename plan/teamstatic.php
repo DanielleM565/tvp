@@ -65,14 +65,13 @@
 			</div>
 		</header>
 		<main>
-			<br>
 			<h1>Team</h1>
 
 			<!-- Waneta Tuttle's bio -->
-			<div class="container">
-				<div class="row waneta">
+			<div class="container" id="waneta">
+				<div class="row">
 					<div class="page-header">
-						<h2>Waneta Tuttle <small style="color: #0f8a89"> Fund Manager</small style="color: #0f8a89"></h2>
+						<h2>Waneta Tuttle <small style="color: #0f8a89"> Fund Manager</small></h2>
 					</div>
 					<div class="col-md-3">
 						<img class="img-responsive" src="stock_images/cat-stock.jpg" alt="Image of Waneta Tuttle">
@@ -84,8 +83,8 @@
 			</div>
 
 			<!-- John Rockwell bio-->
-			<div class="container">
-				<div class="row john">
+			<div class="container" id="john">
+				<div class="row">
 					<div class="page-header">
 						<h2>John Rockwell <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
@@ -98,8 +97,8 @@
 				</div>
 			</div>
 			<!-- Stu Rose's bio -->
-			<div class="container">
-				<div class="row stu">
+			<div class="container" id="stu">
+				<div class="row">
 					<div class="page-header">
 						<h2>Stu Rose <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
@@ -114,8 +113,8 @@
 
 			<!-- Brad Vale -->
 
-			<div class="container">
-				<div class="row brad">
+			<div class="container" id="brad">
+				<div class="row">
 					<div class="page-header">
 						<h2>Brad Vale <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
