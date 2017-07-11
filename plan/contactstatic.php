@@ -78,7 +78,7 @@
 			<h1>Contact Us</h1>
 
 			<!-- contact me section-->
-			<div class="panel panel default">
+			<div class="panel panel default" id="contact">
 				<div class="panel-body">
 					<div class="container contact">
 						<div class="row">
