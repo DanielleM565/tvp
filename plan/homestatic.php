@@ -65,7 +65,41 @@
 			</div>
 		</header>
 		<main>
-			<p>home page</p>
+			<div class="jumbotron jumbotron-fluid">
+				<div class="container">
+					<h1 class="display-3">Tramway Venture Partners</h1>
+				</div>
+			</div>
+
+			<div class="parallax">
+				<p>Investing in Life Science & <br> Health Care Companies</p>
+			</div>
+
+
+			<!-- spacing -->
+			<div class="container">
+				<div class="row">
+					<br>
+				</div>
+			</div>
+
+
+			<div class="container">
+				<div class="row">
+					<p>We are a highly experienced, locally based, nationally and internationally connected team that understands the challenges of making profitable seed and early stage investment in technology based companies in the southwest region</p>
+				</div>
+			</div>
+
+			<!-- spacing -->
+			<div class="container">
+				<div class="row">
+					<br>
+				</div>
+			</div>
+
+			<footer>
+				<p style align="align-content: center">All rights belong to Tramway Venture Partners</p>
+			</footer>
 		</main>
 	</body>
 </html>
