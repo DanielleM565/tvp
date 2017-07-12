@@ -20,6 +20,9 @@ p{
 	font-size: 15px;
 }
 
+/*
+this is not working for some reason
+ */
 small {
 	color: #0f8a89;
 }
@@ -42,7 +45,7 @@ Portfolio and team icons, images and text
 		align-content: center;
 		text-align: center; !important;
 	}
-	img, #icon{
+	img, #icon, .headshot{
 		align-content: center;
 		text-align: center;
 		display: block;
@@ -55,7 +58,17 @@ Everything centers with small screens
  */
 
 }
-img, #icon{
+
+ #icon{
+	max-height: 127px;
+	display: inline-block;
+	float: none;
+}
+
+/*
+Team
+ */
+.headshot {
 	max-height: 127px;
 	display: inline-block;
 	float: none;
@@ -99,7 +112,6 @@ Home page title overlaid on image
 	text-align: center;
 }
 
-
 /*
 Contact
  */
@@ -109,12 +121,32 @@ Contact
 
 
 /*
+About page
+ */
+
+@media (min-width: 768px) {
+	#city-lights {
+		display: inline-block;
+		height: auto;
+		max-width: 100%;
+		align-content: center;
+
+	}
+}
+
+
+
+
+
+/*
 footer
  */
 footer {
 	text-align: center;
 	background-color: #f0f8ff;
 }
+
+
 
 
 /*

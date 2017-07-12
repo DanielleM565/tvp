@@ -77,9 +77,11 @@
 				</div>
 			</div>
 
-			<div class="container" id="city-lights">
-<img src="stock_images/abq-city-lights.jpg" alt="image of Downtown albuquerque at night">
-			</div>
+			<section id="city-lights">
+		<img class="img-responsive" src="stock_images/abq-city-lights.jpg" alt="image of albuquerque downtown city lights at night">
+			</section>
+
+
 		</main>
 	</body>
 </html>
