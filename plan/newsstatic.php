@@ -77,9 +77,10 @@
 
 					<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups. See full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
 				</div>
-	</div>
+			</div>
+		</div>
 
-</div>
+
 
 			<!-- article from press-news-->
 <div class="container" id="news-2">
@@ -98,4 +99,13 @@
 
 		</main>
 	</body>
+
+	<footer>
+		<br>
+		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<br>
+	</footer>
+
+
+
 </html>

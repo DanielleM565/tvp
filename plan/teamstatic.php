@@ -128,4 +128,11 @@
 			</div>
 		</main>
 	</body>
+
+	<footer>
+		<br>
+		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<br>
+	</footer>
+
 </html>

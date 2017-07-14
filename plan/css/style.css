@@ -17,9 +17,30 @@ h1 {
 	padding: 25px;
 }
 p{
-	font-size: 15px;
+	font-size: 17px;
+	margin: auto;
 }
 
+/* for spacing */
+.row {
+	padding: 2rem;
+}
+
+.navbar {
+	padding: -2rem;
+}
+
+/*
+getting ride of extra space top and bottom
+ */
+.navbar
+{
+	margin-bottom: auto;
+}
+
+footer {
+	margin-bottom: auto;
+}
 
 /*
 this is not working for some reason
@@ -40,8 +61,7 @@ Portfolio and team icons, images and text
 
 
 
-
-@media (max-width: 999px) {
+@media (max-width: 992px) {
 	p, h2 {
 		align-content: center;
 		text-align: center; !important;
@@ -52,15 +72,20 @@ Portfolio and team icons, images and text
 		display: block;
 		margin: auto;
 	}
-
-
-	/*
-Everything centers with small screens
- */
-
 }
 
- #icon{
+
+/*
+Everything re-sizes and centers with small screens
+*/
+
+@media (max-width: 500px) {
+	h1 {
+		font-size: 22px;
+	}
+}
+
+ #icon, img, .headshot{
 	max-height: 127px;
 	display: inline-block;
 	float: none;
