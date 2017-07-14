@@ -96,11 +96,20 @@ Team
 News page panels and such
  */
 
-/*@media (max-width: 999px) {*/
-	/*#press {*/
-		/*padding-left: 50px;*/
-	/*}*/
-/*}*/
+/*
+Gives the logo's more space to look better on small screens
+ */
+img[alt="Albuquerque Journal logo"] {
+	padding: 10px;
+}
+img[alt="STC.UNM logo"] {
+	padding: 10px;
+}
+img[alt="KRWG logo"] {
+	padding: 10px;
+}
+
+
 
 
 /*

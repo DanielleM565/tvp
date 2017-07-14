@@ -67,7 +67,7 @@
 			<h1>News</h1>
 
 			<!-- article from NMSU about state seed fund -->
-<div class="container" id="news-1">
+<div class="container news-1">
 			<div class="row">
 				<h2>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h2>
 				<div class="col-md-3">
@@ -82,7 +82,7 @@
 
 
 			<!-- article Albuquerque Journal -->
-			<div class="container" id="news-2">
+			<div class="container news-2" >
 				<div class="row">
 					<h2>New state Catalyst Fund announces first awards <small>May 2, 2017</small></h2>
 					<div class="col-md-3">
@@ -95,11 +95,11 @@
 			</div>
 
 
-			<div class="container" id="news-3">
+			<div class="container news-3">
 				<div class="row">
 					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small>May 23, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="stock_images/stc-unm-logo.png" alt="Albuquerque Journal logo" id="stc-unm"></a>
+						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="stock_images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
 					</div>
 					<div class="col-md-9">
 						<p>New Mexico is still mired in muck from the recession, but better times may be coming for local entrepreneurs looking to start new businesses. About $40 million in new venture capital could soon be flowing into startups across the state now that the State Investment Council’s new Catalyst Fund has begun doling out money for local venture funds that want to pump up budding New Mexico companies. The Catalyst Fund, managed by Sun Mountain Capital in Santa Fe, approved the first $4.65 million in early May for three investment entities to back some of the wave of new businesses emerging from the state’s incubator and accelerator programs looking to take new products and services to market.... Read Full article <a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank">here.</a></p>
@@ -108,7 +108,7 @@
 			</div>
 
 			<!-- I need some space -->
-			<div class="contianer">
+			<div class="container">
 				<div class="row">
 					<br><br>
 				</div>
