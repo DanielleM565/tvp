@@ -70,7 +70,7 @@ Everything re-sizes and centers with small screens
 */
 
 @media (max-width: 500px) {
-	h1 {
+	.tvp-title {
 		font-size: 22px;
 	}
 }
@@ -85,7 +85,7 @@ Everything re-sizes and centers with small screens
 Team
  */
 .headshot {
-	max-height: 127px;
+	max-height: 20rem;
 	display: block;
 	float: none;
 }
