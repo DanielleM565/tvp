@@ -14,7 +14,7 @@ h1, h2, h3, h4, a {
 
 h1, h2 {
 	text-align: center;
-	padding: 25px;
+	padding: 10px;
 }
 
 p {
@@ -95,11 +95,12 @@ Team
 /*
 News page panels and such
  */
-@media (max-width: 999px) {
-	#press {
-		padding-left: 50px;
-	}
-}
+
+/*@media (max-width: 999px) {*/
+	/*#press {*/
+		/*padding-left: 50px;*/
+	/*}*/
+/*}*/
 
 
 /*
