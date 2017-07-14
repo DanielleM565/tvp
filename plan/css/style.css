@@ -12,11 +12,12 @@ h1, h2, h3, h4, a {
 	font-family: 'Old Standard TT', serif;
 }
 
-h1 {
+h1, h2 {
 	text-align: center;
 	padding: 25px;
 }
-p{
+
+p {
 	font-size: 17px;
 	margin: auto;
 }
@@ -26,12 +27,9 @@ p{
 	padding: 2rem;
 }
 
-.navbar {
-	padding: -2rem;
-}
 
 /*
-getting ride of extra space top and bottom
+getting rid of extra space top and bottom
  */
 .navbar
 {
@@ -41,14 +39,6 @@ getting ride of extra space top and bottom
 footer {
 	margin-bottom: auto;
 }
-
-/*
-this is not working for some reason
- */
-small {
-	color: #0f8a89;
-}
-
 
 
 body {
@@ -96,7 +86,7 @@ Team
  */
 .headshot {
 	max-height: 127px;
-	display: inline-block;
+	display: block;
 	float: none;
 }
 
