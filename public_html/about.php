@@ -89,18 +89,23 @@
 				</div>
 			</div>
 
-<!--			<section id="city-lights">-->
-<!--				<img class="img-responsive" src="stock_images/abq-city-lights.jpg" alt="image of albuquerque downtown city lights at night">-->
-<!--			</section>-->
+			<div class="container-fluid">
+				<div class="city-lights">
+
+				</div>
+			</div>
 
 
 		</main>
+
+		<footer>
+			<br>
+			<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+			<br>
+		</footer>
+
 	</body>
 
-	<footer>
-		<br>
-		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
-		<br>
-	</footer>
+
 
 </html>

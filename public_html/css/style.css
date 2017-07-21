@@ -150,16 +150,28 @@ Contact
 About page
  */
 
-@media (min-width: 768px) {
-	#city-lights {
-		display: inline-block;
-		height: auto;
-		max-width: 100%;
-		align-content: center;
+/*@media (min-width: 768px) {*/
+	/*#city-lights {*/
+		/*display: inline-block;*/
+		/*height: auto;*/
+		/*max-width: 100%;*/
+		/*align-content: center;*/
+	/*}*/
+/*}*/
 
-	}
+.city-lights {
+	background-image: url("../images/city-lights.jpg");
+	height: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 
+.container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+
+}
 
 
 
