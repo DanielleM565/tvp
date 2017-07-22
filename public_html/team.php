@@ -62,7 +62,7 @@
 						<!-- navbar -->
 						<nav class="navbar navbar-light bg-faded">
 							<a class="navbar-brand" href="home.php">
-								<img src="images/tvp2.jpg" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
+								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
 						</nav>
