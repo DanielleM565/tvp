@@ -60,7 +60,12 @@
 							<span class="icon-bar"></span>
 						</button>
 						<!-- navbar -->
-						<a class="navbar-brand" href="#">Tramway Venture Partners</a>
+						<nav class="navbar navbar-light bg-faded">
+							<a class="navbar-brand" href="home.php">
+								<img src="images/tvp2.jpg" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
+								Tramway Venture Partners
+							</a>
+						</nav>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
