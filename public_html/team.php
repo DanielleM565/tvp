@@ -88,7 +88,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/waneta-img.jpg" alt="Image of Waneta Tuttle">
 					</div>
 					<div class="col-md-9">
-						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+						<p><br>Waneta’s interests and career are focused at the intersection between technology and health care.  An entrepreneur and experienced executive, she brings Tramway an innovative spirit, grounded in practical understanding of health care.  She holds a PhD and an MBA, has started six companies and has Board of Director experience in companies covering a wide range from start-ups to a publicly traded pharmaceutical company to one of the nation’s largest health insurers.</p>
 					</div>
 				</div>
 			</div>
@@ -103,7 +103,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/john-img.jpeg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
-						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering,  disciplines that are key to many of the “convergent” technologies that Tramway will see the New Mexico.  An enthusiastic, innovative thinker, John is a community leader and an active business owner and operator.</p>
 					</div>
 				</div>
 			</div>
@@ -117,7 +117,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/stu-img.png" alt="Image of Stu Rose">
 					</div>
 					<div class="col-md-9">
-						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+						<p><br>Arguably, “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond.   Dr. Rose is an entrepreneur at heart and will be an important part of Tramway’s deal sourcing.  His PhD is in chemistry and he in nationally and internationally known as an expert pharmaceutical manufacturing.</p>
 					</div>
 				</div>
 			</div>
@@ -133,7 +133,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/brad-img.jpg" alt="Image of Brad Vale">
 					</div>
 					<div class="col-md-9">
-						<p><br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+						<p><br>Although he is the only member of the Tramway team who does not live in New Mexico, Brad has been involved in New Mexico technology company investment for several decades, leading the Johnson & Johnson Development Corporation’s (JJDC) Series A investment in Indigo Medical (1989).  Indigo was subsequently acquired by J&J’s Ethicon Endosurgery.   At his retirement in 2015 Brad was Head of JJDC which made investments of over $200M annually in the life sciences.  He is Managing Partner of Strategic Healthcare Investment Partners, a venture fund organized around investment interests of large corporate venture groups.</p>
 					</div>
 				</div>
 			</div>
