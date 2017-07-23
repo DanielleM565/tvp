@@ -77,12 +77,25 @@
 		<main>
 			<h1>News</h1>
 
-			<!-- article from NMSU about state seed fund -->
+
 			<div class="container news-1">
+				<div class="row">
+					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small>May 23, 2017</small></h2>
+					<div class="col-md-3">
+						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
+					</div>
+					<div class="col-md-9">
+						<p>New Mexico is still mired in muck from the recession, but better times may be coming for local entrepreneurs looking to start new businesses. About $40 million in new venture capital could soon be flowing into startups across the state now that the State Investment Council’s new Catalyst Fund has begun doling out money for local venture funds that want to pump up budding New Mexico companies. The Catalyst Fund, managed by Sun Mountain Capital in Santa Fe, approved the first $4.65 million in early May for three investment entities to back some of the wave of new businesses emerging from the state’s incubator and accelerator programs looking to take new products and services to market.... Read Full article <a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank">here.</a></p>
+					</div>
+				</div>
+			</div>
+
+			<!-- article from NMSU about state seed fund -->
+			<div class="container news-2">
 				<div class="row">
 					<h2>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="stock_images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
+						<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
 					</div>
 					<div class="col-md-9">
 						<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups.... Read full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
@@ -93,11 +106,11 @@
 
 
 			<!-- article Albuquerque Journal -->
-			<div class="container news-2" >
+			<div class="container news-3" >
 				<div class="row">
 					<h2>New state Catalyst Fund announces first awards <small>May 2, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank"><img class="img-responsive" src="stock_images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+						<a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank"><img class="img-responsive" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
 					</div>
 					<div class="col-md-9">
 						<p>Many cash-strapped New Mexico start-ups may soon get a critical boost from a state-backed investment program that’s pumping an initial $4.65 million into three local venture funds. Gov. Susana Martinez announced Tuesday that the state’s new $20 million “Catalyst Fund” is making its first three commitments to investment funds managed by New Mexico State University, and by the Albuquerque-based firms Cottonwood Technology and Tramway Venture Partners. Those organizations will, in turn, match state money dollar-for-dollar, doubling the amount of new cash to become available for local startups seeking seed and early-stage capital.... Read Full article <a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank">here.</a></p>
@@ -106,17 +119,7 @@
 			</div>
 
 
-			<div class="container news-3">
-				<div class="row">
-					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small>May 23, 2017</small></h2>
-					<div class="col-md-3">
-						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="stock_images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
-					</div>
-					<div class="col-md-9">
-						<p>New Mexico is still mired in muck from the recession, but better times may be coming for local entrepreneurs looking to start new businesses. About $40 million in new venture capital could soon be flowing into startups across the state now that the State Investment Council’s new Catalyst Fund has begun doling out money for local venture funds that want to pump up budding New Mexico companies. The Catalyst Fund, managed by Sun Mountain Capital in Santa Fe, approved the first $4.65 million in early May for three investment entities to back some of the wave of new businesses emerging from the state’s incubator and accelerator programs looking to take new products and services to market.... Read Full article <a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank">here.</a></p>
-					</div>
-				</div>
-			</div>
+
 
 			<!-- I need some space -->
 			<div class="container">
