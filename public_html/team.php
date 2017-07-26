@@ -56,8 +56,6 @@
 	</head>
 	<body>
 		<header>
-			<!--Logo goes here -->
-
 			<!--Nav par or nav pills go here -->
 			<div class="navbar navbar-default navbar-static-top" role="navigation">
 				<div class="container">
@@ -166,7 +164,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 

@@ -113,7 +113,7 @@
 			<div class="container">
 				<div class="row">
 					<h3 style="text-align: center">Investing in Life Science & <br> Health Care Companies</h3><br><br>
-					<p>We are a highly experienced, locally based, nationally and internationally connected team that understands the challenges of making profitable seed and early stage investment in technology based companies in the southwest region</p>
+					<p>We are a highly experienced, locally based, nationally and internationally connected team that understands the challenges of making profitable seed and early stage investment in technology based companies in the southwest region.</p>
 				</div>
 			</div>
 
@@ -130,7 +130,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 

@@ -166,7 +166,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 
