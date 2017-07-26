@@ -116,7 +116,7 @@ Home page parallax
 
 .parallax {
 	background-image: url(../images/mountain-cables.jpg);
-	height: 100%;
+	height: 700px;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
