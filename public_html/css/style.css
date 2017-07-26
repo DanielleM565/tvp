@@ -115,7 +115,7 @@ Home page parallax
  */
 
 .parallax {
-	background-image: url(../images/tramway-looking-up.jpg);
+	background-image: url(../images/mountain-cables.jpg);
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
@@ -148,14 +148,6 @@ Contact
 About page
  */
 
-/*@media (min-width: 768px) {*/
-	/*#city-lights {*/
-		/*display: inline-block;*/
-		/*height: auto;*/
-		/*max-width: 100%;*/
-		/*align-content: center;*/
-	/*}*/
-/*}*/
 
 .city-lights {
 	background-image: url("../images/city-lights.jpg");

@@ -80,7 +80,7 @@
 
 			<div class="container news-1">
 				<div class="row">
-					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small>May 23, 2017</small></h2>
+					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small style="color: #0f8a89">May 23, 2017</small></h2>
 					<div class="col-md-3">
 						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
 					</div>
@@ -93,7 +93,7 @@
 			<!-- article from NMSU about state seed fund -->
 			<div class="container news-2">
 				<div class="row">
-					<h2>$40 Million Investment in New Mexico Startups <small> May 2, 2017</small></h2>
+					<h2>$40 Million Investment in New Mexico Startups <small style="color: #0f8a89"> May 2, 2017</small></h2>
 					<div class="col-md-3">
 						<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
 					</div>
@@ -108,7 +108,7 @@
 			<!-- article Albuquerque Journal -->
 			<div class="container news-3" >
 				<div class="row">
-					<h2>New state Catalyst Fund announces first awards <small>May 2, 2017</small></h2>
+					<h2>New state Catalyst Fund announces first awards <small style="color: #0f8a89">May 2, 2017</small></h2>
 					<div class="col-md-3">
 						<a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank"><img class="img-responsive" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
 					</div>

@@ -80,7 +80,7 @@
 				<div class="row">
 					<h1>Portfolio</h1>
 					<div class="page-header">
-						<h2>Portfolio 1 <small> blah blah blah</small></h2>
+						<h2>Portfolio 1 <small style="color: #0f8a89"> blah blah blah</small></h2>
 					</div>
 					<div class="col-md-3">
 						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>
@@ -96,7 +96,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="page-header">
-						<h2>Portfolio 2 <small> blah blah blah</small></h2>
+						<h2>Portfolio 2 <small style="color: #0f8a89"> blah blah blah</small></h2>
 					</div>
 					<div class="col-md-3">
 						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>
