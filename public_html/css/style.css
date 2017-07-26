@@ -3,8 +3,6 @@ Global styles
  */
 
 p {
-
-	/*font-family: 'Frank Ruhl Libre', sans-serif;*/
 	font-family: 'Source Serif Pro', serif;
 }
 
@@ -117,7 +115,7 @@ Home page parallax
  */
 
 .parallax {
-	background-image: url(../stock_images/tramway-looking-up.jpg);
+	background-image: url(../images/tramway-looking-up.jpg);
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
@@ -179,8 +177,20 @@ Logo/ brand in nav bar
  */
 img[alt="Tramway Venture Partners Logo"] {
 	display: inline-block;
+	margin: auto;
+	align-content: center;
+	float: none;
 }
 
+/*
+logo on about page
+ */
+img[alt="Tramway Venture Partners Logo 2"] {
+	display: block;
+	margin: auto;
+	align-content: center;
+	float: none;
+}
 
 /*
 footer
@@ -190,12 +200,3 @@ footer {
 	background-color: #f0f8ff;
 }
 
-
-
-
-/*
-Adobe color wheel brand colors
-light grey #D1D6D6
-Turquoise #1FB9B7
-Dark Grey #5F6163
- */
