@@ -90,10 +90,10 @@
 			</div>
 		</header>
 		<main>
-
+			<h1>Portfolio</h1>
 			<div class="container">
 				<div class="row">
-					<h1>Portfolio</h1>
+
 					<div class="page-header">
 						<h2>Portfolio 1 <small style="color: #0f8a89"> blah blah blah</small></h2>
 					</div>

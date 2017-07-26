@@ -116,10 +116,12 @@
 						<img class="img-responsive headshot" src="../public_html/images/john-img.jpeg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
-						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering,  disciplines that are key to many of the “convergent” technologies that Tramway will see the New Mexico.  An enthusiastic, innovative thinker, John is a community leader and an active business owner and operator.</p>
+						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering.  Disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  An enthusiastic, innovative thinker, John is a community leader and an active business owner and operator.</p>
 					</div>
 				</div>
 			</div>
+
+
 			<!-- Stu Rose's bio -->
 			<div class="container" id="stu">
 				<div class="row">
@@ -130,13 +132,12 @@
 						<img class="img-responsive headshot" src="../public_html/images/stu-img.png" alt="Image of Stu Rose">
 					</div>
 					<div class="col-md-9">
-						<p><br>Arguably, “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond.   Dr. Rose is an entrepreneur at heart and will be an important part of Tramway’s deal sourcing.  His PhD is in chemistry and he in nationally and internationally known as an expert pharmaceutical manufacturing.</p>
+						<p><br>Arguably “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond.   Dr. Rose is an entrepreneur at heart and is an important part of Tramway’s deal sourcing.  His PhD is in chemistry and he in nationally and internationally known as an expert pharmaceutical manufacturing.</p>
 					</div>
 				</div>
 			</div>
 
 			<!-- Brad Vale -->
-
 			<div class="container" id="brad">
 				<div class="row">
 					<div class="page-header">
@@ -151,7 +152,7 @@
 				</div>
 			</div>
 
-			<!-- I jsut need some space -->
+			<!-- I just need some space -->
 			<div class="container">
 				<div class="row">
 					<br><br>
