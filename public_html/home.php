@@ -125,6 +125,10 @@
 			</div>
 
 
+			<div class="parallax2">
+				<!-- second image goes here -->
+			</div>
+
 		</main>
 	</body>
 

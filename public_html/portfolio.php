@@ -94,34 +94,51 @@
 			<div class="container">
 				<div class="row">
 
-					<div class="page-header">
-						<h2>Portfolio 1 <small style="color: #0f8a89"> blah blah blah</small></h2>
-					</div>
-					<div class="col-md-3">
-						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>
-					</div>
-					<div class="col-md-9">
-						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-					</div>
-				</div>
-			</div>
+<!--					<div class="page-header">-->
+<!--						<h2>Portfolio 1 <small style="color: #0f8a89"> blah blah blah</small></h2>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>-->
+<!--					</div>-->
+<!--					<div class="col-md-9">-->
+<!--						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!---->
+<!---->
+<!---->
+<!--			<div class="container">-->
+<!--				<div class="row">-->
+<!--					<div class="page-header">-->
+<!--						<h2>Portfolio 2 <small style="color: #0f8a89"> blah blah blah</small></h2>-->
+<!--					</div>-->
+<!--					<div class="col-md-3">-->
+<!--						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>-->
+<!--					</div>-->
+<!--					<div class="col-md-9">-->
+<!--						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
 
+					<!-- I need my space -->
+					<div class="container">
+						<div class="row">
+							<br><br>
+						</div>
+					</div>
 
-			<div class="container">
-				<div class="row">
-					<div class="page-header">
-						<h2>Portfolio 2 <small style="color: #0f8a89"> blah blah blah</small></h2>
+					<!-- I need my space -->
+					<div class="container">
+						<div class="row">
+							<br><br>
+						</div>
 					</div>
-					<div class="col-md-3">
-						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>
-					</div>
-					<div class="col-md-9">
-						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-					</div>
-				</div>
-			</div>
 
+
+					<p style="text-align: center">We are currently working on making new investments. Once we are done we will post more information here, please stay tuned... </p>
 
 
 			<!-- I need my space -->
@@ -131,6 +148,20 @@
 				</div>
 			</div>
 
+			<!-- I need my space -->
+			<div class="container">
+				<div class="row">
+					<br><br>
+				</div>
+			</div>
+
+
+			<!-- I need my space -->
+			<div class="container">
+				<div class="row">
+					<br><br><br>
+				</div>
+			</div>
 
 
 		</main>
