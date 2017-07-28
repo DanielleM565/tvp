@@ -69,7 +69,7 @@
 						</button>
 						<!-- navbar -->
 						<nav class="navbar navbar-light bg-faded">
-							<a class="navbar-brand" href="home.php">
+							<a class="navbar-brand" href="index.php">
 								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
@@ -77,12 +77,12 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="home.php">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li class="active"><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="news.php">News</a></li>
-							<li><a href="contact.php">Contact</a></li>
+<!--							<li><a href="contact.php">Contact</a></li>-->
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
@@ -116,7 +116,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/john-img.jpeg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
-						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering.  Disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  An enthusiastic, innovative thinker, John is a community leader and an active business owner and operator.</p>
+						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering.  These are disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  An enthusiastic, innovative thinker, John is a community leader and an active business owner and operator.</p>
 					</div>
 				</div>
 			</div>
@@ -147,7 +147,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/brad-img.jpg" alt="Image of Brad Vale">
 					</div>
 					<div class="col-md-9">
-						<p><br>Although he is the only member of the Tramway team who does not live in New Mexico, Brad has been involved in New Mexico technology company investment for several decades, leading the Johnson & Johnson Development Corporation’s (JJDC) Series A investment in Indigo Medical (1989).  Indigo was subsequently acquired by J&J’s Ethicon Endosurgery.   At his retirement in 2015 Brad was Head of JJDC which made investments of over $200M annually in the life sciences.  He is Managing Partner of Strategic Healthcare Investment Partners, a venture fund organized around investment interests of large corporate venture groups.</p>
+						<p><br>Although he is the only member of the Tramway team who does not live in New Mexico, Brad has been involved in New Mexico technology company investment for several decades, leading the Johnson & Johnson Development Corporation’s (JJDC) Series A investment in Indigo Medical (1989).  Indigo was subsequently acquired by J&J’s Ethicon Endosurgery.   At his retirement in 2015, Brad was Head of JJDC which made investments of over $200M annually in the life sciences.  He is Managing Partner of Strategic Healthcare Investment Partners, a venture fund organized around investment interests of large corporate venture groups.</p>
 					</div>
 				</div>
 			</div>

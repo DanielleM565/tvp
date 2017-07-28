@@ -71,7 +71,7 @@
 						</button>
 						<!-- navbar -->
 						<nav class="navbar navbar-light bg-faded">
-							<a class="navbar-brand" href="home.php">
+							<a class="navbar-brand" href="index.php">
 								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
@@ -79,12 +79,12 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="home.php">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li class="active"><a href="news.php">News</a></li>
-							<li><a href="contact.php">Contact</a></li>
+<!--							<li><a href="contact.php">Contact</a></li>-->
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->

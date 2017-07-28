@@ -39,6 +39,7 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
+
 		<!-- favicon for tab image -->
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -69,7 +70,7 @@
 						</button>
 						<!-- navbar -->
 						<nav class="navbar navbar-light bg-faded">
-							<a class="navbar-brand" href="home.php">
+							<a class="navbar-brand" href="index.php">
 								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
@@ -77,7 +78,7 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="home.php">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
@@ -139,7 +140,7 @@
 									</div>
 
 									<!--Google reCAPTCHA helps prevent spam and robots -->
-									<div class="g-recaptcha" data-sitekey="6LcR1CMUAAAAAIdpnBD_kqkRmGmjjRSLxo7GdfCE"></div>
+									<div class="g-recaptcha" data-sitekey="6Lc74SoUAAAAABnGgE9iq94qAKIxqK_uBjHzoIM3"></div>
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>

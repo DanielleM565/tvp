@@ -71,7 +71,7 @@
 						</button>
 						<!-- navbar -->
 						<nav class="navbar navbar-light bg-faded">
-							<a class="navbar-brand" href="home.php">
+							<a class="navbar-brand" href="index.php">
 								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
@@ -79,12 +79,12 @@
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="home.php">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li class="active"><a href="about.php">About</a></li>
 							<li><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="news.php">News</a></li>
-							<li><a href="contact.php">Contact</a></li>
+<!--							<li><a href="contact.php">Contact</a></li>-->
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
@@ -94,12 +94,12 @@
 			<div class="container">
 				<h1>About</h1>
 				<br>
-				<p>Tramway Venture Partners is a seed and early stage venture fund investing in life sciences and health care start-ups in New Mexico. We will typically invest in the first institutional round after angels and friends and family. We will seek opportunities to invest in companies with significant intellectual property positions, clear go to market strategies, large addressable markets that are expected to require less than a total of $30M to exit.</p>
+				<p>Tramway Venture Partners is an early stage venture fund investing in biotech, medtech, and healthtech.  Typically, we will invest in the first institutional round after incubators and angel investors.  The best fit with our strategy is a company led by an outstanding management team, that has  a significant intellectual property position,a  clear go to market strategies, and a large addressable market.  We will focus on opportunities that are expected to require less than a total of $30M to exit.</p>
 				<br>
 				<img src="images/tvp4.png" alt="Tramway Venture Partners Logo 2">
 				<br>
 				<h3>Why New Mexico</h3>
-				<p>New Mexico is attractive for investment because of the intensive Federal R&amp;D investment, its emerging entrepreneurial culture and low cost. It is an “out of the way” place that is attractive, in part, precisely because it is out of the way. <br><br> Home to Los Alamos National Laboratory, Sandia National Laboratories, the US Air Force Research Laboratory and White Sands Missile Range, federal investment in research and development in New Mexico amounted to more than $3.8 Billion in 2014. The State’s three research universities: The University of New Mexico (a Carnegie classification R1 university) with its School of Medicine designated as a Comprehensive Cancer Care Center by the National Cancer Institute, New Mexico State University and New Mexico Tech operate relevant research programs with aggregate funding of over $300 Million per year.<br><br> It is this setting that creates the investment opportunity for the Tramway Venture Partners.</p>
+				<p>New Mexico is attractive for investment because of the intensive Federal R&D investment, its emerging entrepreneurial culture and low cost. It is an “out of the way” place that is attractive, in part, precisely because it is out of the way.  <br><br> HHome to Los Alamos National Laboratory, Sandia National Laboratories, the US Air Force Research Laboratory and White Sands Missile Range, federal investment in research and development in New Mexico amounted to more than $3.8 Billion in 2014. The State’s three research universities: The University of New Mexico (a Carnegie classification R1 university) with its School of Medicine designated as a Comprehensive Cancer Care Center by the National Cancer Institute, New Mexico State University and New Mexico Tech operate relevant research programs with aggregate funding of over $300 Million per year.<br><br> It is this setting that creates the investment opportunity for the Tramway Venture Partners.</p>
 			</div>
 
 			<div class="container" id="space">
