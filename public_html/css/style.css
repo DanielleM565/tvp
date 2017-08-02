@@ -38,6 +38,16 @@ getting rid of extra space top and bottom
 	margin-bottom: auto;
 }
 
+
+/*
+makes navbar title smaller on tiny phone screens
+ */
+@media (max-width: 360px) {
+	a.navbar-brand {
+		font-size: 15px;
+	}
+}
+
 footer {
 	margin-bottom: auto;
 }
@@ -139,6 +149,8 @@ Home page parallax
 	padding-bottom: 25rem;
 	padding-top: 25rem;
 }
+
+
 
 
 /*

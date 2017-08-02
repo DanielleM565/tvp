@@ -58,7 +58,7 @@
 		<header>
 
 			<!--Nav bar here -->
-			<div class="navbar navbar-default navbar-static-top" role="navigation">
+			<nav class="navbar navbar-default navbar-static-top" role="navigation">
 				<div class="container">
 					<div class="navbar-header">
 						<!-- for mobile view navbar icon-->
@@ -69,12 +69,10 @@
 							<span class="icon-bar"></span>
 						</button>
 						<!-- navbar -->
-						<nav class="navbar navbar-light bg-faded">
 							<a class="navbar-brand" href="index.php">
 								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
 								Tramway Venture Partners
 							</a>
-						</nav>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
@@ -87,7 +85,7 @@
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
-			</div>
+			</nav>
 		</header>
 		<main>
 			<h1>Contact Us</h1>
