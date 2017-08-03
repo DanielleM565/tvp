@@ -216,6 +216,10 @@ footer
  */
 footer {
 	text-align: center;
-	background-color: darkgrey;
+	background-color: black;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	width: 100%;
 }
 
