@@ -138,7 +138,7 @@
 									</div>
 
 									<!--Google reCAPTCHA helps prevent spam and robots -->
-									<div class="g-recaptcha" data-sitekey="6Lc74SoUAAAAABnGgE9iq94qAKIxqK_uBjHzoIM3"></div>
+									<div class="g-recaptcha" data-sitekey="6LfuHS0UAAAAAGztaGIzaF-Z-a6sGuz5rUYirHSa"></div>
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>

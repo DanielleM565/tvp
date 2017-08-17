@@ -80,7 +80,7 @@
 							<li class="active"><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="news.php">News</a></li>
-<!--							<li><a href="contact.php">Contact</a></li>-->
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
@@ -114,7 +114,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/john-img.jpeg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
-						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering. These are disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  As an officer in the US Air Force, John worked in R&D on large laser systems, landing gear and cryogenic coolers.   After leaving the Air Force, he  was an executive with Chromex, a leading manufacturer of Raman spectrometers.  Today he owns an operates Marpac, a medical device manufacturer and Sierra Peaks, an engineering firm.  An enthusiastic, innovative thinker, John is a community leader, serving on the New Mexico Workforce Development Board and the Board of the Manufacturing Extension Partnership.</p>
+						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering. These are disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  As an officer in the US Air Force, John worked in R&D on large laser systems, landing gear and cryogenic coolers.   After leaving the Air Force, he  was an executive with Chromex, a leading manufacturer of Raman spectrometers.  Today he owns and operates Marpac, a medical device manufacturer and Sierra Peaks, an engineering firm.  An enthusiastic, innovative thinker, John is a community leader, serving on the New Mexico Workforce Development Board and the Board of the Manufacturing Extension Partnership.</p>
 					</div>
 				</div>
 			</div>
@@ -130,7 +130,7 @@
 						<img class="img-responsive headshot" src="../public_html/images/stu-img.png" alt="Image of Stu Rose">
 					</div>
 					<div class="col-md-9">
-						<p><br>Certainly a candidate for “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond. Dr. Rose is an entrepreneur at heart, having started more than ten companies,  and is an important part of Tramway’s deal sourcing.  He founded The BioScience Center in Albuquerque and FatPipe ABQ, a co-working space for software developers. His PhD is in chemistry and he is nationally and internationally known as an expert pharmaceutical manufacturing.</p>
+						<p><br>Certainly a candidate for “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond. Dr. Rose is an entrepreneur at heart, having started more than ten companies,  and is an important part of Tramway’s deal sourcing.  He founded The BioScience Center in Albuquerque and FatPipe ABQ, a co-working space. His PhD is in chemistry and he is nationally and internationally known as an expert pharmaceutical manufacturing.</p>
 					</div>
 				</div>
 			</div>

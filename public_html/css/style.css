@@ -81,11 +81,6 @@ Portfolio and team icons, images and text
 Everything re-sizes and centers with small screens
 */
 
-@media (max-width: 500px) {
-	.tvp-title {
-		font-size: 22px;
-	}
-}
 
 #icon, img, .headshot{
 	max-height: 127px;
@@ -129,7 +124,7 @@ Home page parallax
  */
 
 .parallax {
-	background-image: url(../images/mountain-cables3.jpg);
+	background-image: url(../images/mountain-cables3-darker.jpg);
 	height: 700px;
 	background-attachment: fixed;
 	background-position: center;
@@ -140,7 +135,7 @@ Home page parallax
 }
 
 .parallax2 {
-	background-image: url(../images/cables-tower4.jpg);
+	background-image: url(../images/cable-tower4-darker.jpg);
 	height: 700px;
 	background-attachment: fixed;
 	background-position: center;
@@ -151,16 +146,67 @@ Home page parallax
 }
 
 
+/*
+Home page buttons and stuff on 2nd parralax
+ */
+#button-header {
+	color: white;
+}
+
+button {
+	align-content: center;
+	margin: auto;
+	float: none;
+	border-radius: 8px;
+	border: 2px solid grey;
+	background: top;
+	display: inline-block;
+	color: white;
+	padding: 6px;
+	text-align: center;
+	transition: all 0.4s ease;
+}
+
+button:hover {
+	background-color: grey;
+}
+
+#border {
+	border: 2px solid grey;
+	border-radius: 8px;
+	padding: 10%;
+}
+
+/*
+for small screens
+ */
+@media (max-width: 460px) {
+	image[alt=""]
+}
 
 
 /*
 Home page title overlaid on image
  */
-.tvp-title {
+
+@media (max-width: 630px) {
+	.tvp-title {
+		font-size: 22px;
+		background-color: aliceblue;
+		opacity: 0.6;
+		display: inline;
+		text-align: center;
+	}
+}
+
+@media (min-width: 631px) {
+	.tvp-title {
 	background-color: aliceblue;
 	opacity: 0.6;
 	display: inline;
 	text-align: center;
+	font-size: 50px;
+}
 }
 
 /*
@@ -212,11 +258,11 @@ img[alt="Tramway Venture Partners Logo 2"] {
 }
 
 /*
-footer
+footer duh
  */
 footer {
 	text-align: center;
-	background-color: black;
+	background-color: darkgrey;
 	bottom: 0;
 	right: 0;
 	left: 0;
