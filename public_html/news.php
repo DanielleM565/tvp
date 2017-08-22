@@ -91,8 +91,20 @@
 		<main>
 			<h1>News</h1>
 
+			<div class="container">
+				<div class="row">
+					<h2> UNM Technology Accelerates Genomic Sequencing<small style="color: #0f8a89"> August 21, 2017</small></h2>
+					<div class="col-md-3">
+						<a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank"><img class="img-responsive" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+					</div>
+					<div class="col-md-9">
+						<p>Today, DNA sequencing is a tortuous process that often takes days and sometimes weeks to read a full human genome, but University of New Mexico researchers may have found a way to cut that down to minutes. Investors are now lining up behind UNM’s breakthrough, which they say could accelerate the healthcare industry’s use of “precision medicine” based on each individual’s unique DNA structure New Mexico-based Cottonwood Technology, Tramway Venture Partners and Sun Mountain Capital are jointly pumping an initial $1.5 million investment into Armonica Technologies Inc., a new startup that’s working to take UNM’s discovery to market.... Read Full article <a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank">here.</a></p>
+					</div>
+				</div>
+			</div>
 
-			<div class="container news-1">
+
+			<div class="container">
 				<div class="row">
 					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small style="color: #0f8a89">May 23, 2017</small></h2>
 					<div class="col-md-3">
@@ -105,7 +117,7 @@
 			</div>
 
 			<!-- article from NMSU about state seed fund -->
-			<div class="container news-2">
+			<div class="container">
 				<div class="row">
 					<h2>$40 Million Investment in New Mexico Startups <small style="color: #0f8a89"> May 2, 2017</small></h2>
 					<div class="col-md-3">
@@ -120,7 +132,7 @@
 
 
 			<!-- article Albuquerque Journal -->
-			<div class="container news-3" >
+			<div class="container" >
 				<div class="row">
 					<h2>New state Catalyst Fund announces first awards <small style="color: #0f8a89">May 2, 2017</small></h2>
 					<div class="col-md-3">

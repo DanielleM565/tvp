@@ -62,8 +62,6 @@
 	</head>
 	<body>
 		<header>
-			<!--Logo goes here -->
-
 			<!--Nav par or nav pills go here -->
 			<nav class="navbar navbar-default navbar-static-top" role="navigation">
 				<div class="container">
@@ -127,15 +125,49 @@
 
 			<div class="parallax2">
 				<!-- second image goes here -->
-			</div>
+
+				<!-- button to link to other pages -->
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-4 text-center">
+								<div id="border">
+									<h3 id="button-header">Learn more About us</h3>
+									<a href="about.php" style="margin: 0 auto;">
+										<button>About</button>
+									</a>
+								</div>
+						</div>
+	<!-- team -->
+						<div class="col-md-4 text-center">
+								<div id="border">
+									<h3 id="button-header">Who we are</h3>
+									<a href="team.php">
+										<button>Team</button>
+									</a>
+								</div>
+						</div>
+	<!-- portfolio -->
+						<div class="col-md-4 text-center">
+							<div id="border">
+								<h3 id="button-header">Our Investments</h3>
+								<a href="portfolio.php">
+									<button >Portfolio</button>
+								</a>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div><!-- parallax -->
 
 		</main>
+		<footer>
+			<br>
+			<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
+			<br>
+		</footer>
+
 	</body>
 
-	<footer>
-		<br>
-		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
-		<br>
-	</footer>
+
 
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>template</title>
+		<title>Contact</title>
 
 		<!-- mobile first -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,7 +37,7 @@
 		<script src="js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
-		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
 
 
 		<!-- favicon for tab image -->
@@ -138,7 +138,7 @@
 									</div>
 
 									<!--Google reCAPTCHA helps prevent spam and robots -->
-									<div class="g-recaptcha" data-sitekey="6Lc74SoUAAAAABnGgE9iq94qAKIxqK_uBjHzoIM3"></div>
+									<div class="g-recaptcha" data-sitekey="6LfuHS0UAAAAAGztaGIzaF-Z-a6sGuz5rUYirHSa"></div>
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
