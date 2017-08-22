@@ -174,7 +174,8 @@ button:hover {
 #border {
 	border: 2px solid grey;
 	border-radius: 8px;
-	padding: 10%;
+	padding: 5%;
+	margin: 10px auto;
 }
 
 /*
@@ -269,3 +270,17 @@ footer {
 	width: 100%;
 }
 
+
+/*
+testing div of class=footer for empty portfolio page
+ */
+
+.footer{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: darkgrey;
+	text-align: center;
+}

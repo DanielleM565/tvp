@@ -81,7 +81,7 @@
 							<li><a href="team.php">Team</a></li>
 							<li class="active"><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="news.php">News</a></li>
-							<li><a href="contact.php">Contact</a></li>
+<!--							<li><a href="contact.php">Contact</a></li>-->
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
@@ -136,7 +136,7 @@
 					</div>
 
 
-					<p style="text-align: center">We are currently working on making new investments. Once we are done we will post more information here, please stay tuned... </p>
+<!--					<p style="text-align: center">We are currently working on making new investments. Once we are done we will post more information here, please stay tuned... </p>-->
 
 
 			<!-- I need my space -->
@@ -167,10 +167,10 @@
 	</body>
 
 
-	<footer>
+	<div class="footer">
 		<br>
 		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
-	</footer>
+	</div>
 
 </html>

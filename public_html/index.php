@@ -86,7 +86,7 @@
 							<li><a href="team.php">Team</a></li>
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="news.php">News</a></li>
-							<li><a href="contact.php">Contact</a></li>
+<!--							<li><a href="contact.php">Contact</a></li>-->
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
@@ -155,7 +155,9 @@
 								</a>
 						</div>
 					</div>
-				</div> <!-- parallax -->
+				</div>
+				</div>
+			</div><!-- parallax -->
 
 		</main>
 		<footer>
