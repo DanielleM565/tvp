@@ -129,7 +129,7 @@
 				<!-- button to link to other pages -->
 				<div class="container-fluid">
 					<div class="row">
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 								<div id="border">
 									<h3 id="button-header">Learn more About us</h3>
 									<a href="about.php" style="margin: 0 auto;">
@@ -138,7 +138,7 @@
 								</div>
 						</div>
 	<!-- team -->
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 								<div id="border">
 									<h3 id="button-header">Who we are</h3>
 									<a href="team.php">
@@ -147,7 +147,7 @@
 								</div>
 						</div>
 	<!-- portfolio -->
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 							<div id="border">
 								<h3 id="button-header">Our Investments</h3>
 								<a href="portfolio.php">

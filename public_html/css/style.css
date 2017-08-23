@@ -136,7 +136,7 @@ Home page parallax
 
 .parallax2 {
 	background-image: url(../images/cable-tower4-darker.jpg);
-	height: 700px;
+	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
