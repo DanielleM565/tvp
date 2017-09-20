@@ -176,6 +176,7 @@ button:hover {
 	border-radius: 8px;
 	padding: 5%;
 	margin: 10px auto;
+	background-color: rgba(7, 10, 11, 0.45);
 }
 
 /*
@@ -194,19 +195,21 @@ Home page title overlaid on image
 	.tvp-title {
 		font-size: 22px;
 		background-color: aliceblue;
-		opacity: 0.6;
+		opacity: 0.5;
 		display: inline;
 		text-align: center;
+		border-radius: 8px;
 	}
 }
 
 @media (min-width: 631px) {
 	.tvp-title {
 	background-color: aliceblue;
-	opacity: 0.6;
+	opacity: 0.5;
 	display: inline;
 	text-align: center;
 	font-size: 50px;
+	border-radius: 8px;
 }
 }
 
