@@ -88,89 +88,31 @@
 			</nav>
 		</header>
 		<main>
-			<h1>Portfolio</h1>
+			<h1>Portfolio</h1> <br>
+
+			<div class="armonica">
+				<h2>Armonica Technologies, Inc.</h2>
+			</div>
+
 			<div class="container">
 				<div class="row">
-
-<!--					<div class="page-header">-->
-<!--						<h2>Portfolio 1 <small style="color: #0f8a89"> blah blah blah</small></h2>-->
-<!--					</div>-->
-<!--					<div class="col-md-3">-->
-<!--						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>-->
-<!--					</div>-->
-<!--					<div class="col-md-9">-->
-<!--						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!---->
-<!---->
-<!---->
-<!--			<div class="container">-->
-<!--				<div class="row">-->
-<!--					<div class="page-header">-->
-<!--						<h2>Portfolio 2 <small style="color: #0f8a89"> blah blah blah</small></h2>-->
-<!--					</div>-->
-<!--					<div class="col-md-3">-->
-<!--						<i class="fa fa-users fa-5x" aria-hidden="true" id="icon"></i>-->
-<!--					</div>-->
-<!--					<div class="col-md-9">-->
-<!--						<p> <br>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-
-
-					<!-- I need my space -->
-					<div class="container">
-						<div class="row">
-							<br><br>
-						</div>
+					<!-- logo goes here -->
+						<p> <br>Armonica Technologies, Inc. is an Albuquerque, NM based development stage company focused on building its proprietary long-read DNA sequencing technology.  The Company’s mission is to become the gold standard of DNA sequencing for precision medicine research applications. Armonica’s technology is based upon a portfolio of patented and patent pending technologies licensed from STC.UNM.</p> <br>
+					<img src="images/logo-armonica-technologies-173x51.png" alt="Armonica Technologies Logo"> <br>
+					<p>Today’s standard genome sequencing approaches require extensive library preparation, and create a massive computational and bioinformatics problem related to reassembling the data set.  Armonica’s technology, called optical nanopore sequencing, uses proprietary nanochannels to deliver single DNA molecules through nanopores.  Nanopore sequencing produces long DNA strings, or long reads which provide more accurate identification of genome variations and abnormalities.  Armonica’s approach will lead to a more thorough, faster, and accurate genomic analysis without the need for library preparation.  The Company’s innovative platform will enable life science researchers to be more efficient and productive in their research and discovery capabilities.
+						</p>
 					</div>
-
-					<!-- I need my space -->
-					<div class="container">
-						<div class="row">
-							<br><br>
-						</div>
-					</div>
-
-
-<!--					<p style="text-align: center">We are currently working on making new investments. Once we are done we will post more information here, please stay tuned... </p>-->
-
-
-			<!-- I need my space -->
-			<div class="container">
-				<div class="row">
-					<br><br>
 				</div>
-			</div>
-
-			<!-- I need my space -->
-			<div class="container">
-				<div class="row">
-					<br><br>
-				</div>
-			</div>
-
-
-			<!-- I need my space -->
-			<div class="container">
-				<div class="row">
-					<br><br><br>
-				</div>
-			</div>
-
 
 		</main>
 
 	</body>
 
 
-	<div class="footer">
+	<footer>
 		<br>
 		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
-	</div>
+	</footer>
 
 </html>

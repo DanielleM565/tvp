@@ -259,6 +259,26 @@ img[alt="Tramway Venture Partners Logo 2"] {
 }
 
 /*
+Portfolio
+ */
+img[alt="Armonica Technologies Logo"] {
+	display: block;
+	margin: auto;
+	align-content: center;
+	float: none
+}
+
+.armonica {
+	background-image: url("../images/armonica-dna.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 2%;
+	text-shadow: 1px 1px aliceblue;
+
+}
+
+/*
 footer duh
  */
 footer {
@@ -275,12 +295,12 @@ footer {
 testing div of class=footer for empty portfolio page
  */
 
-.footer{
-	position: absolute;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	background-color: darkgrey;
-	text-align: center;
-}
+/*.footer{*/
+	/*position: absolute;*/
+	/*right: 0;*/
+	/*bottom: 0;*/
+	/*left: 0;*/
+	/*width: 100%;*/
+	/*background-color: darkgrey;*/
+	/*text-align: center;*/
+/*}*/
