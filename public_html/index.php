@@ -33,13 +33,6 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		<!-- favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/manifest.json">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="theme-color" content="#ffffff">
-
 		<link rel="shortcut icon" type="image/x-icon" href="images/tvp4.ico" />
 
 
@@ -129,7 +122,7 @@
 				<!-- button to link to other pages -->
 				<div class="container-fluid">
 					<div class="row">
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 								<div id="border">
 									<h3 id="button-header">Learn more About us</h3>
 									<a href="about.php" style="margin: 0 auto;">
@@ -138,7 +131,7 @@
 								</div>
 						</div>
 	<!-- team -->
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 								<div id="border">
 									<h3 id="button-header">Who we are</h3>
 									<a href="team.php">
@@ -147,7 +140,7 @@
 								</div>
 						</div>
 	<!-- portfolio -->
-						<div class="col-md-4 text-center">
+						<div class="col-sm-4 text-center">
 							<div id="border">
 								<h3 id="button-header">Our Investments</h3>
 								<a href="portfolio.php">
