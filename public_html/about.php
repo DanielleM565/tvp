@@ -94,6 +94,7 @@
 				<br>
 				<p>Tramway Venture Partners is an early stage venture fund investing in biotech, medtech, and healthtech.  Typically, we will invest in the first institutional round after incubators and angel investors.  The best fit with our strategy is a company led by an outstanding management team, that has  a significant intellectual property position,a  clear go to market strategies, and a large addressable market.  We will focus on opportunities that are expected to require less than a total of $30M to exit.</p>
 				<br>
+				<!-- logo goes here -->
 				<img src="images/tvp4.png" alt="Tramway Venture Partners Logo 2">
 				<br>
 				<h3>Why New Mexico</h3>

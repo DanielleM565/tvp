@@ -96,11 +96,13 @@
 
 			<div class="container">
 				<div class="row">
+						<p style="text-align: center"> <br>Armonica Technologies, Inc. is an Albuquerque, NM based development stage company focused on building its proprietary long-read DNA sequencing technology.  The Company’s mission is to become the gold standard of DNA sequencing for precision medicine research applications. Armonica’s technology is based upon a portfolio of patented and patent pending technologies licensed from STC.UNM.</p>
+					<br>
 					<!-- logo goes here -->
-						<p> <br>Armonica Technologies, Inc. is an Albuquerque, NM based development stage company focused on building its proprietary long-read DNA sequencing technology.  The Company’s mission is to become the gold standard of DNA sequencing for precision medicine research applications. Armonica’s technology is based upon a portfolio of patented and patent pending technologies licensed from STC.UNM.</p> <br>
-					<img src="images/logo-armonica-technologies-173x51.png" alt="Armonica Technologies Logo"> <br>
-					<p>Today’s standard genome sequencing approaches require extensive library preparation, and create a massive computational and bioinformatics problem related to reassembling the data set.  Armonica’s technology, called optical nanopore sequencing, uses proprietary nanochannels to deliver single DNA molecules through nanopores.  Nanopore sequencing produces long DNA strings, or long reads which provide more accurate identification of genome variations and abnormalities.  Armonica’s approach will lead to a more thorough, faster, and accurate genomic analysis without the need for library preparation.  The Company’s innovative platform will enable life science researchers to be more efficient and productive in their research and discovery capabilities.
-						</p>
+					<img class="img-responsive" src="images/armonica-logo.jpg" alt="Armonica Technologies Logo">
+					<br>
+					<p style="text-align: center">Today’s standard genome sequencing approaches require extensive library preparation, and create a massive computational and bioinformatics problem related to reassembling the data set.  Armonica’s technology, called optical nanopore sequencing, uses proprietary nanochannels to deliver single DNA molecules through nanopores.  Nanopore sequencing produces long DNA strings, or long reads which provide more accurate identification of genome variations and abnormalities.  Armonica’s approach will lead to a more thorough, faster, and accurate genomic analysis without the need for library preparation.  The Company’s innovative platform will enable life science researchers to be more efficient and productive in their research and discovery capabilities.
+						</p><br>
 					</div>
 				</div>
 

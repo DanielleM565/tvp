@@ -268,7 +268,8 @@ img[alt="Armonica Technologies Logo"] {
 	display: block;
 	margin: auto;
 	align-content: center;
-	float: none
+	float: none;
+	padding: 3%
 }
 
 .armonica {
@@ -276,7 +277,7 @@ img[alt="Armonica Technologies Logo"] {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	padding: 2%;
+	padding: 3%;
 	text-shadow: 1px 1px aliceblue;
 
 }
