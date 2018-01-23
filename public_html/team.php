@@ -156,7 +156,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
+		<p> &copy; 2017-18 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 
