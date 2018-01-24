@@ -176,6 +176,7 @@ button:hover {
 	border-radius: 8px;
 	padding: 5%;
 	margin: 10px auto;
+	background-color: rgba(7, 10, 11, 0.45);
 }
 
 /*
@@ -194,19 +195,21 @@ Home page title overlaid on image
 	.tvp-title {
 		font-size: 22px;
 		background-color: aliceblue;
-		opacity: 0.6;
+		opacity: 0.5;
 		display: inline;
 		text-align: center;
+		border-radius: 8px;
 	}
 }
 
 @media (min-width: 631px) {
 	.tvp-title {
 	background-color: aliceblue;
-	opacity: 0.6;
+	opacity: 0.5;
 	display: inline;
 	text-align: center;
 	font-size: 50px;
+	border-radius: 8px;
 }
 }
 
@@ -259,6 +262,27 @@ img[alt="Tramway Venture Partners Logo 2"] {
 }
 
 /*
+Portfolio
+ */
+img[alt="Armonica Technologies Logo"] {
+	display: block;
+	margin: auto;
+	align-content: center;
+	float: none;
+	padding: 3%
+}
+
+.armonica {
+	background-image: url("../images/armonica-dna.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 3%;
+	text-shadow: 1px 1px aliceblue;
+
+}
+
+/*
 footer duh
  */
 footer {
@@ -275,12 +299,12 @@ footer {
 testing div of class=footer for empty portfolio page
  */
 
-.footer{
-	position: absolute;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	background-color: darkgrey;
-	text-align: center;
-}
+/*.footer{*/
+	/*position: absolute;*/
+	/*right: 0;*/
+	/*bottom: 0;*/
+	/*left: 0;*/
+	/*width: 100%;*/
+	/*background-color: darkgrey;*/
+	/*text-align: center;*/
+/*}*/
