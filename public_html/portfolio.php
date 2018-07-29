@@ -43,7 +43,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="images/tvp4.ico" />
 
 		<!-- custom CSS -->
-		<link rel="stylesheet" href="./css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 	</head>
 	<body>
