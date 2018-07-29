@@ -43,7 +43,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="images/tvp4.ico" />
 
 		<!-- custom CSS -->
-		<link rel="stylesheet" href="./css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 
 	</head>
@@ -89,7 +89,7 @@
 						<h2>Waneta Tuttle <small style="color: #0f8a89"> Fund Manager</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive headshot" src="../public_html/images/waneta-img.jpg" alt="Image of Waneta Tuttle">
+						<img class="img-responsive headshot" src="images/waneta-img.jpg" alt="Image of Waneta Tuttle">
 					</div>
 					<div class="col-md-9">
 						<p><br>Waneta’s interests and career are focused at the intersection between technology and health care.  An entrepreneur and experienced executive, she brings Tramway an innovative spirit, grounded in practical understanding of health care.  She holds a PhD and an MBA, has started six companies and has Board of Director experience in companies covering a wide range from start-ups to a publicly traded pharmaceutical company to one of the nation’s largest health insurers.</p>
@@ -104,7 +104,7 @@
 						<h2>John Rockwell <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive headshot" src="../public_html/images/john-img.jpeg" alt="Image of John Rockwell">
+						<img class="img-responsive headshot" src="images/john-img.jpeg" alt="Image of John Rockwell">
 					</div>
 					<div class="col-md-9">
 						<p><br>John complements the Tramway team with his experience and connectivity in physics and engineering. These are disciplines that are key to many of the “convergent” technologies that Tramway Venture Partners sees in New Mexico.  As an officer in the US Air Force, John worked in R&D on large laser systems, landing gear and cryogenic coolers.   After leaving the Air Force, he  was an executive with Chromex, a leading manufacturer of Raman spectrometers.  Today he owns and operates Marpac, a medical device manufacturer and Sierra Peaks, an engineering firm.  An enthusiastic, innovative thinker, John is a community leader, serving on the New Mexico Workforce Development Board and the Board of the Manufacturing Extension Partnership.</p>
@@ -120,7 +120,7 @@
 						<h2>Stu Rose <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive headshot" src="../public_html/images/stu-img.png" alt="Image of Stu Rose">
+						<img class="img-responsive headshot" src="images/stu-img.png" alt="Image of Stu Rose">
 					</div>
 					<div class="col-md-9">
 						<p><br>Certainly a candidate for “Mr. BioScience” in New Mexico, Stu brings the Tramway team extensive business and investment experience and an extensive network within the State and beyond. Dr. Rose is an entrepreneur at heart, having started more than ten companies,  and is an important part of Tramway’s deal sourcing.  He founded The BioScience Center in Albuquerque and FatPipe ABQ, a co-working space. His PhD is in chemistry and he is nationally and internationally known as an expert pharmaceutical manufacturing.</p>
@@ -135,7 +135,7 @@
 						<h2>Brad Vale <small style="color: #0f8a89"> Venture Partner</small></h2>
 					</div>
 					<div class="col-md-3">
-						<img class="img-responsive headshot" src="../public_html/images/brad-img.jpg" alt="Image of Brad Vale">
+						<img class="img-responsive headshot" src="images/brad-img.jpg" alt="Image of Brad Vale">
 					</div>
 					<div class="col-md-9">
 						<p><br>Although he is the only member of the Tramway team who does not live in New Mexico, Brad has been involved in New Mexico technology company investment for several decades, leading the Johnson & Johnson Development Corporation’s (JJDC) Series A investment in Indigo Medical (1989).  Indigo was subsequently acquired by J&J’s Ethicon Endosurgery.   At his retirement in 2015, Brad was Head of JJDC which made investments of over $200M annually in the life sciences.  He is Managing Partner of Strategic Healthcare Investment Partners, a venture fund organized around investment interests of large corporate venture groups.</p>
@@ -156,7 +156,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
+		<p> &copy; 2017-18 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 

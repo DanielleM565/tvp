@@ -43,7 +43,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="images/tvp4.ico" />
 
 		<!-- custom CSS -->
-		<link rel="stylesheet" href="./css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 	</head>
 	<body>
@@ -106,7 +106,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
+		<p> &copy; 2017-18 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 

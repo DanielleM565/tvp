@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>template</title>
+		<title>Contact</title>
 
 		<!-- mobile first -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,11 +25,8 @@
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
 
-			<!-- google fonts-->
+		<!-- google fonts-->
 		<link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Old+Standard+TT|Source+Serif+Pro" rel="stylesheet">
-
-		<!-- custom CSS -->
-		<link rel="stylesheet" href="./css/style.css" type="text/css">
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.1/jquery.form.min.js"></script>
@@ -40,15 +37,21 @@
 		<script src="js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
-		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+
+
+		<!-- favicon for tab image -->
+		<link rel="shortcut icon" type="image/x-icon" href="images/tvp4.ico" />
+
+		<!-- custom CSS -->
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 	</head>
 	<body>
 		<header>
-			<!--Logo goes here -->
 
-			<!--Nav par or nav pills go here -->
-			<div class="navbar navbar-default navbar-static-top" role="navigation">
+			<!--Nav bar here -->
+			<nav class="navbar navbar-default navbar-static-top" role="navigation">
 				<div class="container">
 					<div class="navbar-header">
 						<!-- for mobile view navbar icon-->
@@ -59,25 +62,28 @@
 							<span class="icon-bar"></span>
 						</button>
 						<!-- navbar -->
-						<a class="navbar-brand" href="homestatic.php">Tramway Venture Partners</a>
+							<a class="navbar-brand" href="index.php">
+								<img src="images/tvp4.png" width="30" height="20" class="d-inline-block align-left" alt="Tramway Venture Partners Logo">
+								Tramway Venture Partners
+							</a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="homestatic.php">Home</a></li>
-							<li><a href="aboutstatic.php">About</a></li>
-							<li><a href="teamstatic.php">Team</a></li>
-							<li><a href="portfoliostatic.php">Portfolio</a></li>
-							<li><a href="newsstatic.php">News</a></li>
-							<li class="active"><a href="contactstatic.php">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="team.php">Team</a></li>
+							<li><a href="portfolio.php">Portfolio</a></li>
+							<li><a href="news.php">News</a></li>
+							<li class="active"><a href="contact.php">Contact</a></li>
 						</ul>
 					</div> <!-- navbar collapse -->
 				</div> <!-- container -->
-			</div>
+			</nav>
 		</header>
 		<main>
 			<h1>Contact Us</h1>
 
-			<!-- contact me section-->
+			<!-- contact us section-->
 			<div class="panel panel default" id="contact">
 				<div class="panel-body">
 					<div class="container contact">
@@ -125,7 +131,7 @@
 									</div>
 
 									<!--Google reCAPTCHA helps prevent spam and robots -->
-									<div class="g-recaptcha" data-sitekey="6LcR1CMUAAAAAIdpnBD_kqkRmGmjjRSLxo7GdfCE"></div>
+									<div class="g-recaptcha" data-sitekey="6LfuHS0UAAAAAGztaGIzaF-Z-a6sGuz5rUYirHSa"></div>
 
 									<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 									<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
@@ -142,7 +148,7 @@
 						</div> <!-- row -->
 					</div> <!-- container -->
 
-			</div> <!-- panel -->
+				</div> <!-- panel -->
 			</div>
 
 
@@ -152,7 +158,7 @@
 
 	<footer>
 		<br>
-		<p> &copy; 2017 All rights belong to Tramway Venture Partners 	</p>
+		<p> &copy; 2017-18 Tramway Venture Partners All Rights Reserved	</p>
 		<br>
 	</footer>
 

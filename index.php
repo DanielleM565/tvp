@@ -49,7 +49,7 @@
 				  crossorigin="anonymous"></script>
 
 		<!-- custom CSS -->
-		<link rel="stylesheet" href="./css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 
 	</head>
@@ -155,7 +155,7 @@
 		</main>
 		<footer>
 			<br>
-			<p> &copy; 2017 Tramway Venture Partners All Rights Reserved	</p>
+			<p> &copy; 2017-18 Tramway Venture Partners All Rights Reserved	</p>
 			<br>
 		</footer>
 
