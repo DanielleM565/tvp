@@ -92,12 +92,29 @@
 						<p style="text-align: center"> <br>Armonica Technologies, Inc. is an Albuquerque, NM based development stage company focused on building its proprietary long-read DNA sequencing technology.  The Company’s mission is to become the gold standard of DNA sequencing for precision medicine research applications. Armonica’s technology is based upon a portfolio of patented and patent pending technologies licensed from STC.UNM.</p>
 					<br>
 					<!-- logo goes here -->
-					<img class="img-responsive" src="images/armonica-logo.jpg" alt="Armonica Technologies Logo">
+					<a href="http://armonicatech.com/" target="_blank"><img class="img-responsive" src="images/armonica-logo.jpg" alt="Armonica Technologies Logo"></a>
 					<br>
-					<p style="text-align: center">Today’s standard genome sequencing approaches require extensive library preparation, and create a massive computational and bioinformatics problem related to reassembling the data set.  Armonica’s technology, called optical nanopore sequencing, uses proprietary nanochannels to deliver single DNA molecules through nanopores.  Nanopore sequencing produces long DNA strings, or long reads which provide more accurate identification of genome variations and abnormalities.  Armonica’s approach will lead to a more thorough, faster, and accurate genomic analysis without the need for library preparation.  The Company’s innovative platform will enable life science researchers to be more efficient and productive in their research and discovery capabilities.
+					<p style="text-align: center">Today’s standard genome sequencing approaches require extensive library preparation, and create a massive computational and bioinformatics problem related to reassembling the data set.  Armonica’s technology, called optical nanopore sequencing, uses proprietary nanochannels to deliver single DNA molecules through nanopores.  Nanopore sequencing produces long DNA strings, or long reads which provide more accurate identification of genome variations and abnormalities.  Armonica’s approach will lead to a more thorough, faster, and accurate genomic analysis without the need for library preparation.  The Company’s innovative platform will enable life science researchers to be more efficient and productive in their research and discovery capabilities. <a href="http://armonicatech.com/" target="_blank">Learn more</a>
 						</p><br>
 					</div>
 				</div>
+
+			<div class="bennubio">
+				<h2>BennuBio, Inc.</h2>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<p style="text-align: center">BennuBio will enter the market in 2019 with acoustic flow cytometers that analyze up to 1 million cells per second at a low coincidence rate, increasing processing capacity up to 100 fold and expanding flow cytometry into analysis of rare events in a high particle background.  Applications include studies of circulating tumor cells, fetal cells in maternal circulation and stem cells in complex samples.  The BennuBio technology will also expand flow cytometry to applications like tumor microsphere analysis, which is not possible with conventional fluidic flow cytometry.
+ <br></p>
+					<br>
+					<!-- logo goes here -->
+					<a href="https://bennubio.com/" target="_blank"><img class="img-responsive" src="images/LogoBennuBio.png" alt="BuennoBio Logo"></a>
+					<br>
+					<p style="text-align: center">The company is led by a team of scientists and engineers that trace their professional roots to the National Flow Cytometry Resource at the Los Alamos National Laboratory, a center for the development of advanced flow cytometry resources for decades. <a href="https://bennubio.com/" target="_blank">Learn more </a>
+					</p><br>
+				</div>
+			</div>
 
 		</main>
 

@@ -86,12 +86,36 @@
 
 			<div class="container">
 				<div class="row">
-					<h2> UNM Technology Accelerates Genomic Sequencing<small style="color: #0f8a89"> August 21, 2017</small></h2>
+					<h2> Armonica Technologies secures new patents advancing their long-read DNA successes<small style="color: #0f8a89"> November 14, 2018</small></h2>
 					<div class="col-md-3">
-						<a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank"><img class="img-responsive" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+						<a href="https://www.prnewswire.com/news-releases/armonica-technologies-secures-new-patents-advancing-their-long-read-dna-successes-300750614.html" target="_blank"><img class="img-responsive news-img-style" src="images/c-vision.png" alt="CISION PR Newswire" id="cision"></a>
 					</div>
 					<div class="col-md-9">
-						<p>Today, DNA sequencing is a tortuous process that often takes days and sometimes weeks to read a full human genome, but University of New Mexico researchers may have found a way to cut that down to minutes. Investors are now lining up behind UNM’s breakthrough, which they say could accelerate the healthcare industry’s use of “precision medicine” based on each individual’s unique DNA structure New Mexico-based Cottonwood Technology, Tramway Venture Partners and Sun Mountain Capital are jointly pumping an initial $1.5 million investment into Armonica Technologies Inc., a new startup that’s working to take UNM’s discovery to market.... Read Full article <a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank">here.</a></p>
+						<p>As it advances the stage of its technology, the Company is generating excitement within the scientific community.  "I believe that Armonica has the potential to transform the genome sciences through ultra-high throughput DNA sequencing," said Dr. Jeremy Edwards, Professor at the University of New Mexico Comprehensive Cancer Center and Scientific Advisor to the Company. "Previous nanopore technology has suffered from serious limitations, namely the ability to control the speed of DNA translocation through a nanopore. In recent years this problem has been partially mitigated using proteins positioned on the nanopore. Armonica has developed an optimal solution to this problem using innovative nanofabrication technology.  I am very excited by the technology that Armonica is developing,"... Read Full article <a href="https://www.prnewswire.com/news-releases/armonica-technologies-secures-new-patents-advancing-their-long-read-dna-successes-300750614.html" target="_blank">here.</a></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<h2> UNM Tech spinoff attracts $1.5M investment<small style="color: #0f8a89"> September 4, 2018</small></h2>
+					<div class="col-md-3">
+						<a href="https://www.abqjournal.com/1216726/unm-biotechnology-attracts-1-5m-investment.html" target="_blank"><img class="img-responsive news-img-style" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+					</div>
+					<div class="col-md-9">
+						<p>A new cell screening and analysis technology that accelerates tissue-processing rates by up to 100-fold is nearing market, boosted by a $1.5 million venture investment in local startup BennuBio. The company is commercializing a University of New Mexico breakthrough in flow-through cytometers, or cell meters, which are used to rapidly analyze millions, and often billions of cells for medical diagnostics and drug discovery. Today’s cytometers can process only about 10,000 cells per second because tissue samples are pushed through cytometers one at a time. In addition, when screening complex conglomerates of cells, the process slows down to 100 cells per second... Read Full article <a href="https://www.abqjournal.com/1216726/unm-biotechnology-attracts-1-5m-investment.html" target="_blank">here.</a></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<h2> UNM Technology Accelerates Genomic Sequencing<small style="color: #0f8a89"> August 21, 2017</small></h2>
+					<div class="col-md-3">
+						<a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank"><img class="img-responsive news-img-style" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+					</div>
+					<div class="col-md-9">
+						<p>Today, DNA sequencing is a tortuous process that often takes days and sometimes weeks to read a full human genome, but University of New Mexico researchers may have found a way to cut that down to minutes. Investors are now lining up behind UNM’s breakthrough, which they say could accelerate the healthcare industry’s use of “precision medicine” based on each individual’s unique DNA structure New Mexico-based Cottonwood Technology, Tramway Venture Partners and Sun Mountain Capital are jointly pumping an initial $1.5 million investment into Armonica Technologies Inc., a new startup that’s working to take UNM’s discovery to market... Read Full article <a href="https://www.abqjournal.com/1050880/unm-technology-accelerates-genomic-sequencing.html" target="_blank">here.</a></p>
 					</div>
 				</div>
 			</div>
@@ -101,10 +125,10 @@
 				<div class="row">
 					<h2>New Venture Capital Fund Will Be Critical to Start-up Growth <small style="color: #0f8a89">May 23, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive" src="images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
+						<a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank"><img class="img-responsive news-img-style" src="images/stc-unm-logo.png" alt="STC.UNM logo" id="stc-unm"></a>
 					</div>
 					<div class="col-md-9">
-						<p>New Mexico is still mired in muck from the recession, but better times may be coming for local entrepreneurs looking to start new businesses. About $40 million in new venture capital could soon be flowing into startups across the state now that the State Investment Council’s new Catalyst Fund has begun doling out money for local venture funds that want to pump up budding New Mexico companies. The Catalyst Fund, managed by Sun Mountain Capital in Santa Fe, approved the first $4.65 million in early May for three investment entities to back some of the wave of new businesses emerging from the state’s incubator and accelerator programs looking to take new products and services to market.... Read Full article <a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank">here.</a></p>
+						<p>New Mexico is still mired in muck from the recession, but better times may be coming for local entrepreneurs looking to start new businesses. About $40 million in new venture capital could soon be flowing into startups across the state now that the State Investment Council’s new Catalyst Fund has begun doling out money for local venture funds that want to pump up budding New Mexico companies. The Catalyst Fund, managed by Sun Mountain Capital in Santa Fe, approved the first $4.65 million in early May for three investment entities to back some of the wave of new businesses emerging from the state’s incubator and accelerator programs looking to take new products and services to market... Read Full article <a href="https://stc.unm.edu/new-venture-capital-fund-will-be-critical-to-start-up-growth/" target="_blank">here.</a></p>
 					</div>
 				</div>
 			</div>
@@ -114,10 +138,10 @@
 				<div class="row">
 					<h2>$40 Million Investment in New Mexico Startups <small style="color: #0f8a89"> May 2, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive" src="images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
+						<a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank"><img class="img-responsive news-img-style" src="images/nmsu-krwg-logo2.jpg" alt="KRWG logo"></a>
 					</div>
 					<div class="col-md-9">
-						<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups.... Read full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
+						<p>Today, Governor Susana Martinez announced $40 million worth of investments in New Mexico startups. A $20 million Catalyst Fund is being launched that will raise a matching $20 million in private equity for investments in local startups. The Catalyst Fund is expected to support more than 50 companies in New Mexico and will focus on aiding technology startups... Read full article <a href="http://krwg.org/post/40-million-investment-new-mexico-startups" target="_blank">here.</a></p>
 					</div>
 				</div>
 			</div>
@@ -129,10 +153,10 @@
 				<div class="row">
 					<h2>New state Catalyst Fund announces first awards <small style="color: #0f8a89">May 2, 2017</small></h2>
 					<div class="col-md-3">
-						<a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank"><img class="img-responsive" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
+						<a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank"><img class="img-responsive news-img-style" src="images/abq-journal-logo.jpg" alt="Albuquerque Journal logo" id="abq-journal"></a>
 					</div>
 					<div class="col-md-9">
-						<p>Many cash-strapped New Mexico start-ups may soon get a critical boost from a state-backed investment program that’s pumping an initial $4.65 million into three local venture funds. Gov. Susana Martinez announced Tuesday that the state’s new $20 million “Catalyst Fund” is making its first three commitments to investment funds managed by New Mexico State University, and by the Albuquerque-based firms Cottonwood Technology and Tramway Venture Partners. Those organizations will, in turn, match state money dollar-for-dollar, doubling the amount of new cash to become available for local startups seeking seed and early-stage capital.... Read Full article <a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank">here.</a></p>
+						<p>Many cash-strapped New Mexico start-ups may soon get a critical boost from a state-backed investment program that’s pumping an initial $4.65 million into three local venture funds. Gov. Susana Martinez announced Tuesday that the state’s new $20 million “Catalyst Fund” is making its first three commitments to investment funds managed by New Mexico State University, and by the Albuquerque-based firms Cottonwood Technology and Tramway Venture Partners. Those organizations will, in turn, match state money dollar-for-dollar, doubling the amount of new cash to become available for local startups seeking seed and early-stage capital... Read Full article <a href="https://www.abqjournal.com/996969/new-state-catalyst-fund-announces-first-awards.html" target="_blank">here.</a></p>
 					</div>
 				</div>
 			</div>

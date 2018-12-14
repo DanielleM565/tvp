@@ -29,6 +29,13 @@ p {
 	padding: 2rem;
 }
 
+/* For hyperlink colors */
+a:link, a:visited {
+	color: #0f8a89;
+}
+a:hover {
+	color: #0b4f4f;
+}
 
 /*
 getting rid of extra space top and bottom
@@ -106,17 +113,15 @@ News page panels and such
 /*
 Gives the logo's more space to look better on small screens
  */
-img[alt="Albuquerque Journal logo"] {
-	padding: 10px;
-}
-img[alt="STC.UNM logo"] {
-	padding: 10px;
-}
-img[alt="KRWG logo"] {
-	padding: 10px;
-}
 
 
+.news-img-style {
+	padding: 10px;
+	margin: 0px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
 /*
@@ -279,7 +284,24 @@ img[alt="Armonica Technologies Logo"] {
 	background-position: center;
 	padding: 3%;
 	text-shadow: 1px 1px aliceblue;
+}
 
+img[alt="BuennoBio Logo"] {
+	display: block;
+	margin: auto;
+	align-content: center;
+	float: none;
+	padding: 3%
+}
+
+.bennubio {
+	background-image: url("../images/cells.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 3%;
+	text-shadow: 1px 1px black;
+	color: white;
 }
 
 /*
